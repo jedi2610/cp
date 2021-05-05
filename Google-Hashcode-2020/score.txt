@@ -1,0 +1,7 @@
+a_example.txt = 21
+b_read_on.txt = 5822900
+c_incunabula.txt = 3647992
+d_tough_choices.txt = 4325425
+e_so_many_books.txt = 2422703
+f_libraries_of_the_world.txt = 2618239
+Total Score = 18837280
