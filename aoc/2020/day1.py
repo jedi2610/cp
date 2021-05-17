@@ -10,7 +10,7 @@ def main():
 
 
 def part2():
-    file = open("input.txt", "r")
+    file = open("/mnt/Seagate/Code/cp/aoc/2020/input.txt", "r")
     input = list(map(int, file.readlines()))
     for i in range(len(input)):
         for j in range(i+1, len(input)):

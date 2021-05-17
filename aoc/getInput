@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-url="https://adventofcode.com/2020/day/$1/input"
-echo $url
-
-curl -O $url --cookie "session=53616c7465645f5fdbb18d2bbe8aab6c49ea5b105ca7be3526e83977b029076abb01dc752839b65fe5850802181ed6db"
