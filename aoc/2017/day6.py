@@ -25,11 +25,5 @@ def part1():
     print("Part 1: ", len(configs))
 
 
-def part2():
-    f = open("/mnt/Seagate/Code/cp/aoc/2017/6.txt", "r")
-    # f = open("/mnt/Seagate/Code/cp/aoc/2017/sample", "r")
-
-
 if __name__ == "__main__":
     part1()
-    # part2()
