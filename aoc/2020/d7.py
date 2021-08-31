@@ -1,9 +1,7 @@
 import collections
-import math
 import re
-import sys
 
-lines = [l.rstrip('\n') for l in open('input', 'r')]
+lines = [l.rstrip('\n') for l in open('input/7.txt', 'r')]
 
 containedin = collections.defaultdict(set)
 contains = collections.defaultdict(list)
